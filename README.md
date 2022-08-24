@@ -8,4 +8,6 @@ And more text
 
 ---
 
+Send me to [apple web site](www.apple.com)
+
 and a paragraph
