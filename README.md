@@ -8,6 +8,6 @@ And more text
 
 ---
 
-Send me to [apple web site](www.apple.com)
+Send me to [apple web site](https:\\www.apple.com)
 
 and a paragraph
